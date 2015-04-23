@@ -4,3 +4,4 @@
 
 appschema 2015-04-23T21:58:56Z Jon Erdman <jon@bluetreble.com> # Add schema for all flipr objects.
 users [appschema] 2015-04-23T22:45:00Z Jon Erdman <jon@bluetreble.com> # Creates table to track our users.
+functions/foo 2015-04-23T23:43:41Z Jon Erdman <jon@bluetreble.com> # A fucntion

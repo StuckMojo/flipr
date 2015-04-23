@@ -3,3 +3,4 @@
 %uri=https://github.com/StuckMojo/flipr
 
 appschema 2015-04-23T21:58:56Z Jon Erdman <jon@bluetreble.com> # Add schema for all flipr objects.
+users [appschema] 2015-04-23T22:45:00Z Jon Erdman <jon@bluetreble.com> # Creates table to track our users.

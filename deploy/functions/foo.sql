@@ -3,12 +3,12 @@
 BEGIN;
 
 -- XXX Add DDLs here.
-create function foo()
+create or replace function foo()
 returns int
 language sql
 as
 $$
-select 1;
+select 2;
 $$;
 
 COMMIT;
